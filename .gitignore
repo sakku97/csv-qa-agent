@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets are often large and/or under redistribution restrictions (e.g. Kaggle)
+# - download them locally rather than committing them.
+*.csv
